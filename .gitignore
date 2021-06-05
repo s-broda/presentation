@@ -23,4 +23,6 @@ docs/site/
 # environment.
 Manifest.toml
 
+presentation_ebs/
 presentation/
+.ipynb_checkpoints
